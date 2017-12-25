@@ -1,0 +1,23 @@
+{
+  "name": "ts-js-integrate-demo",
+  "version": "1.0.0",
+  "description": "This project demostrate integrate the typescript and javascript together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenderghost/ts-js-integrate-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenderghost/ts-js-integrate-demo/issues"
+  },
+  "homepage": "https://github.com/tenderghost/ts-js-integrate-demo#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
